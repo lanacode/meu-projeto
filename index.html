@@ -9,33 +9,54 @@
 </head>
 
 <body>
-    <header>
-        <h1>Gestor de Compras Inteligente</h1>
-    </header>
+    <div id="contener">
+        <header>
+            <h1>Gestor de Compras Inteligente</h1>
+        </header>
 
-    <aside aria-label="Ferramentas de Adição de Produto">
-        <form action="#" method="POST">
-            <label for="nameProduct">Nome do Produto:</label>
-            <input type="text" name="nameProduct" id="nameProduct" required>
+        <main aria-label="Ferramentas de Adição de Produto">
+            <form id="productForm" action="#" method="POST">
+                <div class="input">
+                    <label for="nameProduct">Nome do Produto:</label>
+                    <input type="text" name="nameProduct" id="nameProduct">
+                </div>
 
-            <label for="valueProduct">Valor do Produto:</label>
-            <input type="number" name="valueProduct" id="valueProduct" step="0.01" required>
+                <div>
+                    <label for="amountProduct">Quantidade do Produto:</label>
+                    <input type="number" name="amountProduct" id="amountProduct" step="0">
+                </div>
 
-            <button type="submit">Adicionar Produto</button>
-            <button type="submit">Concluir Compra</button>
-        </form>
-    </aside>
+                <div>
+                    <label for="valueProduct">Valor do Produto:</label>
+                    <input type="number" name="valueProduct" id="valueProduct" step="0.01">
+                </div>
+                <button type="submit">Adicionar Produto</button>
+            </form>
 
-    <section aria-label="Lista de Compras Atual">
-        <h2>Lista de Compras</h2>
-        <article>
-            <p>Nenhum produto adicionado ainda.</p>
-        </article>
-    </section>
+            <section aria-label="Lista de Compras Atual">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Produto</th>
+                            <th>Quantidade</th>
+                            <th>Valor Unitário</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody id="shoppingListBody">
+                    </tbody>
+                </table>
+            </section>
+
+            <button type="button" id="finishPurchaseButton">Concluir Compra</button>
+        </main>
+    </div>
 
     <footer>
         <p>&copy; Gestor de Compras Inteligente - 2025</p>
     </footer>
+
+    <script src="script.js"></script>
 </body>
 
 </html>
