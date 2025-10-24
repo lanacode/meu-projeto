@@ -40,16 +40,26 @@ function renderTable() {
     });
 
 
-    if (products.length > 0) {
-        const totalRow = tableBody.insertRow();
-        totalRow.style.fontWeight = 'bold';
+  // ⭐️ INÍCIO DA MODIFICAÇÃO DE LAYOUT ⭐️
+    // 1. O bloco de código foi movido para fora do 'if'
+    // 2. A classe 'total-row' foi adicionada para garantir o estilo do CSS
+    
+    const totalRow = tableBody.insertRow();
+    totalRow.classList.add('total-row');
+    
+    // Seu código original de formatação do total
+    const formattedTotalGeral = `R$ ${totalGeral.toFixed(2).replace('.', ',')}`;
 
-        totalRow.insertCell().textContent = 'Total:';
+    // Célula para 'Total:'
+    const labelCell = totalRow.insertCell();
+    labelCell.textContent = 'Total:';
+    labelCell.colSpan = 3; // Ocupa 3 colunas para empurrar o valor
 
-        const totalCell = totalRow.insertCell();
-        totalCell.textContent = `R$ ${totalGeral.toFixed(2).replace('.', ',')}`;
-        totalCell.colSpan = 3;
-    }
+    // Célula para o valor total
+    const valueCell = totalRow.insertCell();
+    valueCell.textContent = formattedTotalGeral;
+
+    // FIM DA MODIFICAÇÃO DE LAYOUT
 }
 
 function removeProduct(index) {
