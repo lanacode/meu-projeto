@@ -55,5 +55,5 @@ Como este é um projeto front-end estático, você pode executá-lo de duas form
 
 Feito por **Ilana Nascimento - Lana Code**.
 
-* GitHub: [https://github.com/lanacode)
-* LinkedIn: [www.linkedin.com/in/ilananascimento)
+* GitHub: [https://github.com/lanacode](https://github.com/lanacode)
+* LinkedIn: [www.linkedin.com/in/ilananascimento](www.linkedin.com/in/ilananascimento)
