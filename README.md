@@ -15,11 +15,11 @@ O projeto foi criado para treinar e revisar conceitos básicos de JavaScript com
 ## 🚀 Tecnologias Utilizadas
 
 <p align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)" height="40" alt="HTML5" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)" height="40" alt="CSS3" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)" height="40" alt="JavaScript" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg)" height="40" alt="VS Code" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
 
 ## 🧠 Funcionalidades
