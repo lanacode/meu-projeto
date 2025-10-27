@@ -1,38 +1,54 @@
 # 💼 Smart Purchasing Manager
 
-<p>
-  O Smart Purchasing Manager é um sistema inteligente de gerenciamento de compras, desenvolvido para otimizar o processo de aquisição de produtos que serve como um self-checkout.  
-  O projeto foi criado para treinar e revisar conceitos básicos de JavaScript como: Elementos Basicos, Condicionais, Estruturas de Repetição, Função e Local Host.
-</p>
+![Status](https://img.shields.io/badge/Status-Concluído-green)
 
-### 🚀 Tecnologias Utilizadas
+O Smart Purchasing Manager é um sistema inteligente de gerenciamento de compras, desenvolvido para otimizar o processo de aquisição de produtos que serve como um self-checkout.
+
+O projeto foi criado para treinar e revisar conceitos básicos de JavaScript como: Elementos Básicos, Condicionais, Estruturas de Repetição, Função e Local Storage.
+
+## 📸 Demonstração
+
+(Aqui você pode adicionar um print da tela principal do seu app)
+
+---
+
+## 🚀 Tecnologias Utilizadas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)" height="40" alt="HTML5" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)" height="40" alt="CSS3" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)" height="40" alt="JavaScript" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg)" height="40" alt="VS Code" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)" height="40" alt="GitHub" />
 </p>
 
-### 🧠 Funcionalidades
+## 🧠 Funcionalidades
 
-<p>✅ Cadastro e listagem de produtos</p>
-<p>✅ Simulação de orçamento inteligente</p>
-<p>✅ Interface simples e responsiva</p>
-<p>✅ Armazenamento local</p>
+* ✅ Cadastro e listagem de produtos
+* ✅ Simulação de orçamento inteligente
+* ✅ Interface simples e responsiva
+* ✅ Armazenamento local
 
-### 📦 Estrutura do Projeto
-<p>├── index.html</p>
-<p>├── style.css</p>
-<p>├── script.js</p>
-<p>├── assets/</p>
-<p>│ ├── images/</p>
-<p>│ └── icons/</p>
-<p>└── README.md</p>
+## 📦 Estrutura do Projeto
+├── index.html ├── style.css ├── script.js ├── assets/ │ ├── images/ │ └── icons/ └── README.md
+## 🌐 Como Executar e Acessar
 
-### 🌐 Acesse o Projeto
+Como este é um projeto front-end estático, você pode executá-lo de duas formas:
 
-O site está disponível via **GitHub Pages**:  
-🔗 [https://lanacode.github.io/smart-purchasing-manager/]
+1.  **Acessando o link (GitHub Pages):**
+    * O site está disponível via **GitHub Pages**:
+    * 🔗 **[https://lanacode.github.io/smart-purchasing-manager/](https://lanacode.github.io/smart-purchasing-manager/)**
 
+2.  **Executando Localmente:**
+    * Clone este repositório: `git clone https://github.com/lanacode/smart-purchasing-manager.git`
+    * Navegue até a pasta do projeto.
+    * Abra o arquivo `index.html` no seu navegador.
+
+---
+
+### 👤 Autor
+
+Feito por **[Seu Nome]**.
+
+* GitHub: [lanacode](https://github.com/lanacode)
+* LinkedIn: `[SEU_LINKEDIN]`
