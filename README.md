@@ -8,7 +8,7 @@ O projeto foi criado para treinar e revisar conceitos básicos de JavaScript com
 
 ## 📸 Demonstração
 
-<img demo.png/>
+![Texto alternativo](./demo.png)
 
 ---
 
