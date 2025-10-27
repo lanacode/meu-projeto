@@ -8,7 +8,7 @@ O projeto foi criado para treinar e revisar conceitos básicos de JavaScript com
 
 ## 📸 Demonstração
 
-(Aqui você pode adicionar um print da tela principal do seu app)
+<img demo.png/>
 
 ---
 
