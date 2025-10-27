@@ -1,7 +1,9 @@
 # 💼 Smart Purchasing Manager
 
-O Smart Purchasing Manager é um sistema inteligente de gerenciamento de compras, desenvolvido para otimizar o processo de aquisição de produtos que serve como um self-checkout.  
-O projeto foi criado para treinar e revisar conceitos básicos de JavaScript como: Elementos Basicos, Condicionais, Estruturas de Repetição, Função e Local Host.
+<p>
+  O Smart Purchasing Manager é um sistema inteligente de gerenciamento de compras, desenvolvido para otimizar o processo de aquisição de produtos que serve como um self-checkout.  
+  O projeto foi criado para treinar e revisar conceitos básicos de JavaScript como: Elementos Basicos, Condicionais, Estruturas de Repetição, Função e Local Host.
+</p>
 ---
 
 ## 🚀 Tecnologias Utilizadas
@@ -18,26 +20,26 @@ O projeto foi criado para treinar e revisar conceitos básicos de JavaScript com
 
 ## 🧠 Funcionalidades
 
-✅ Cadastro e listagem de produtos   
-✅ Simulação de orçamento inteligente  
-✅ Interface simples e responsiva  
-✅ Armazenamento local  
+<p>✅ Cadastro e listagem de produtos</p>
+<p>✅ Simulação de orçamento inteligente</p>
+<p>✅ Interface simples e responsiva</p>
+<p>✅ Armazenamento local</p>
 
 ---
 
 ## 📦 Estrutura do Projeto
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│ ├── images/
-│ └── icons/
-└── README.md
+<p>├── index.html</p>
+<p>├── style.css</p>
+<p>├── script.js</p>
+<p>├── assets/</p>
+<p>│ ├── images/</p>
+<p>│ └── icons/</p>
+<p>└── README.md</p>
 
 ---
 
 ## 🌐 Acesse o Projeto
 
 O site está disponível via **GitHub Pages**:  
-🔗 [https://ilana.github.io/lanacode-smart-purchasing-manager/](https://ilana.github.io/lanacode-smart-purchasing-manager/)
+🔗 [https://lanacode.github.io/smart-purchasing-manager/]
 
