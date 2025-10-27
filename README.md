@@ -30,7 +30,10 @@ O projeto foi criado para treinar e revisar conceitos básicos de JavaScript com
 * ✅ Armazenamento local
 
 ## 📦 Estrutura do Projeto
-├── index.html ├── style.css ├── script.js ├── assets/ │ ├── images/ │ └── icons/ └── README.md
+*├── index.html 
+*├── style.css 
+*├── script.js 
+*└── README.md
 ## 🌐 Como Executar e Acessar
 
 Como este é um projeto front-end estático, você pode executá-lo de duas formas:
