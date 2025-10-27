@@ -53,7 +53,7 @@ Como este é um projeto front-end estático, você pode executá-lo de duas form
 
 ### 👤 Autor
 
-Feito por **[Seu Nome]**.
+Feito por **Ilana Nascimento - Lana Code**.
 
-* GitHub: [lanacode](https://github.com/lanacode)
-* LinkedIn: `[SEU_LINKEDIN]`
+* GitHub: [https://github.com/lanacode]
+* LinkedIn: [www.linkedin.com/in/ilananascimento]
