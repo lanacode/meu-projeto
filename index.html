@@ -1,61 +1,13 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gestor de Compras Inteligente</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-    <div id="contener">
-        <header>
-            <h1>Gestor de Compras Inteligente</h1>
-        </header>
-
-        <main aria-label="Ferramentas de Adição de Produto">
-            <form id="productForm" action="#" method="POST">
-                <div class="input">
-                    <label for="nameProduct">Nome do Produto:</label>
-                    <input type="text" name="nameProduct" id="nameProduct">
-                </div>
-
-                <div class="input">
-                    <label for="amountProduct">Quantidade do Produto:</label>
-                    <input type="number" name="amountProduct" id="amountProduct" step="0">
-                </div>
-
-                <div class="input">
-                    <label for="valueProduct">Valor do Produto:</label>
-                    <input type="number" name="valueProduct" id="valueProduct" step="0.01">
-                </div>
-                <button type="submit">Adicionar Produto</button>
-            </form>
-
-            <section aria-label="Lista de Compras Atual">
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Produto</th>
-                            <th>Quantidade</th>
-                            <th>Valor Unitário</th>
-                            <th></th>
-                        </tr>
-                    </thead>
-                    <tbody id="shoppingListBody">
-                    </tbody>
-                </table>
-                <button type="button" id="finishPurchaseButton">Concluir Compra</button>
-            </section>
-        </main>
-    </div>
-
-    <footer>
-        <p>&copy; Gestor de Compras Inteligente - 2025</p>
-    </footer>
-
-    <script src="script.js"></script>
-</body>
-
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>smart-purchasing-manager</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
 </html>
